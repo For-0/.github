@@ -2,8 +2,12 @@
 
 ## Who We Are
 
-Hi! We're For Zero, a group of students who make applications that transform student life. Our applications are completely free (or, for zero dollars), ad-free, and effective. 
+Hi! We're For Zero, a group of students who make applications that transform student life. Our applications are completely free (or, for zero dollars), ad-free, and effective. Our goal is to make life easier for students by supplying important tools that can be used at home or in the classroom.
 
 ## Our Applications
 
-We've started our journey with Vocabustudy, a free and simple way to study, learn, and memorize information. Check it out, [here.]([url](https://vocabustudyonline.web.app/))
+We've started our journey with Vocabustudy, a free and simple way to study, learn, and memorize information. Check it out [here!](https://vocabustudyonline.web.app/)
+
+## Support us!
+
+More info on that soon!
