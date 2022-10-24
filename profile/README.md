@@ -1,6 +1,6 @@
 # Welcome to For Zero's GitHub Page!
 
-![This is an image](https://drive.google.com/uc?export=download&id=1drlZbPhIghdNXaGI39Xy3bEBRgEmncq9) aaaaaaaaa
+![This is an image](https://drive.google.com/uc?export=download&id=1drlZbPhIghdNXaGI39Xy3bEBRgEmncq9) # Welcome!
 
 Welcome to For Zero - apps made by students for students
 
