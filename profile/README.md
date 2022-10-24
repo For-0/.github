@@ -2,7 +2,7 @@
 
 ## Who We Are
 
-Hi! We're For Zero, a group of students who make applications that transform student life. Our applications are completely free (or, for zero dollars), ad-free, and effective. Our goal is to make life easier for students by supplying important tools that can be used at home or in the classroom.
+Hi! We're For Zero, a group of students (Siddhant Kameswar, Ruhan Gupta, and Omkar Patil) who make applications that transform student life. Our applications are completely free (or, for zero dollars), ad-free, and effective. Our goal is to make life easier for students by supplying important tools that can be used at home or in the classroom.
 
 ## Our Applications
 
