@@ -6,7 +6,7 @@ Hi! We're For Zero, a group of students (Siddhant Kameswar, Ruhan Gupta, and Omk
 
 ## Our Applications
 
-We've started our journey with Vocabustudy, a free and simple way to study, learn, and memorize information. Check it out [here!](https://vocabustudyonline.web.app/)
+We've started our journey with Vocabustudy, a free and simple way to study, learn, and memorize information. Check it out [here!](https://vocabustudy.org/)
 
 ## Support us!
 
