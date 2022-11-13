@@ -10,4 +10,6 @@ We've started our journey with Vocabustudy, a free and simple way to study, lear
 
 ## Support us!
 
-More info on that soon!
+Please consider buying us a coffee!
+
+<a href="https://www.buymeacoffee.com/forzero" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
