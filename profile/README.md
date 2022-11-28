@@ -1,4 +1,4 @@
-# Welcome to the ![This is an image](https://drive.google.com/uc?export=download&id=1me4kIBk6rsnMYXbdaKm0CVu3qw0A_6qa) GitHub page!
+# Welcome to the ![This is an image](https://drive.google.com/uc?export=download&id=1vlUImhpfw4avR8aiu9vt6lFh1-l88NkX) GitHub page!
 
 ## Who We Are
 
